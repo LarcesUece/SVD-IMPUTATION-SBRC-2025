@@ -1,0 +1,138 @@
+{
+    "AP-BA": {
+        "knn": {
+            "rmse": 43287213.75564217
+        },
+        "linear_interpolation": {
+            "rmse": 37688723.90176903
+        },
+        "rolling_average": {
+            "rmse": 44372757.924297385
+        },
+        "rolling_median": {
+            "rmse": 44372757.924297385
+        },
+        "svd": {
+            "rmse": 5465605.509765309
+        }
+    },
+    "BA-PA": {
+        "knn": {
+            "rmse": 39036430.64464155
+        },
+        "linear_interpolation": {
+            "rmse": 41874884.82880046
+        },
+        "rolling_average": {
+            "rmse": 41389018.2965015
+        },
+        "rolling_median": {
+            "rmse": 41359443.61278792
+        },
+        "svd": {
+            "rmse": 7058911.665724627
+        }
+    },
+    "CE-RO": {
+        "knn": {
+            "rmse": 29074578.515580803
+        },
+        "linear_interpolation": {
+            "rmse": 28751036.639407266
+        },
+        "rolling_average": {
+            "rmse": 27502665.879071206
+        },
+        "rolling_median": {
+            "rmse": 27502665.879071206
+        },
+        "svd": {
+            "rmse": 4054726.7691996144
+        }
+    },
+    "ES-PR": {
+        "knn": {
+            "rmse": 17073213.992879085
+        },
+        "linear_interpolation": {
+            "rmse": 16414847.44319032
+        },
+        "rolling_average": {
+            "rmse": 16037232.058479521
+        },
+        "rolling_median": {
+            "rmse": 16037232.058479521
+        },
+        "svd": {
+            "rmse": 8261673.178828276
+        }
+    },
+    "GO-SE": {
+        "knn": {
+            "rmse": 4318128.1514936425
+        },
+        "linear_interpolation": {
+            "rmse": 4827579.404278272
+        },
+        "rolling_average": {
+            "rmse": 4861994.021511254
+        },
+        "rolling_median": {
+            "rmse": 4878413.042234642
+        },
+        "svd": {
+            "rmse": 3219576.8933476536
+        }
+    },
+    "MA-RJ": {
+        "knn": {
+            "rmse": 16568175.724536508
+        },
+        "linear_interpolation": {
+            "rmse": 17802165.055850998
+        },
+        "rolling_average": {
+            "rmse": 17228589.99504215
+        },
+        "rolling_median": {
+            "rmse": 17228589.99504215
+        },
+        "svd": {
+            "rmse": 5050632.237920653
+        }
+    },
+    "PB-ES": {
+        "knn": {
+            "rmse": 44453004.82245234
+        },
+        "linear_interpolation": {
+            "rmse": 44655903.13462432
+        },
+        "rolling_average": {
+            "rmse": 44825686.44762441
+        },
+        "rolling_median": {
+            "rmse": 44825686.44762441
+        },
+        "svd": {
+            "rmse": 4108702.346438482
+        }
+    },
+    "RO-SE": {
+        "knn": {
+            "rmse": 19248995.73299196
+        },
+        "linear_interpolation": {
+            "rmse": 11271712.727316123
+        },
+        "rolling_average": {
+            "rmse": 13935121.904933587
+        },
+        "rolling_median": {
+            "rmse": 13849081.452901762
+        },
+        "svd": {
+            "rmse": 3987689.583724621
+        }
+    }
+}
